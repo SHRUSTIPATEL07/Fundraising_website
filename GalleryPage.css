@@ -1,0 +1,12 @@
+/* GalleryPage.css */
+.gallery-page {
+    text-align: center;
+    padding: 100px;
+    background-color: rgb(198, 239, 255);
+  }
+  
+  .gallery-page h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+  }
+  
